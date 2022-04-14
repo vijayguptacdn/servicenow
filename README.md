@@ -8,8 +8,7 @@
 
  ```ruby self_signed_certificate.rb```
 
-**Run web server using command **
-
+**Run web server using command**
  ```ruby server.rb```
 
 **Keep running server on this tab and open new console tab and Run commnad**
