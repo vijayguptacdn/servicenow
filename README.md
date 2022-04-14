@@ -4,7 +4,7 @@
 
 '```cd ServiceNow```
 
-**Run below command to create CA certificate**
+**Run below command to generate CA certificate**
 
  ```ruby self_signed_certificate.rb```
 
